@@ -11,14 +11,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 *   **Engineering Focus:** Backend architecture, system design, and performance optimization.
 *   **Goal:** Building software that is maintainable, scalable, and efficient.
 *   **Current Interests:** Exploring new patterns in distributed systems and improving deployment workflows.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
